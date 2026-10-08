@@ -1,0 +1,19 @@
+════════════════════════════════════════════════════════
+        COMPROVANTE DE ENTREGA - IMPACTA
+════════════════════════════════════════════════════════
+
+  ID de Comprovação: 4494fcad-352a-4b52-a075-33ecf5eac09d
+  Data/Hora:         07/10/2026, 21:57:13
+  Aluno:             Thiago Alves Soares
+  RA:                2502664
+  Atividade:         AST10
+  Status:            No Prazo
+
+────────────────────────────────────────────────────────
+  Referência: https://github.com/thiagoasoares-byte/mutmut
+────────────────────────────────────────────────────────
+
+  Este documento é a prova oficial de sua entrega eletrônica.
+  Autenticação: 4494fcad-352a-4b52-a075-33ecf5eac09d-2502664
+
+════════════════════════════════════════════════════════
